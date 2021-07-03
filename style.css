@@ -10,7 +10,8 @@ body {
 
 .container {
 	height: auto;
-	margin: 0 300px;
+	margin: 0 auto;
+	max-width: 919px;
 }
 
 .banner {
